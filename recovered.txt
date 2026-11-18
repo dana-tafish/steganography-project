@@ -1,0 +1,3 @@
+Cybersecurity Assignment Complete - Confidential Data
+Project: LSB File-to-Image Steganography
+Note: Replace this sample file with your own confidential notes before running.
